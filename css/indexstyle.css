@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(236, 225, 225);
+}
+
+.logo{
+    text-align: center;
+}
+.superior-log{
+    float: right;
+    padding-right: 1rem;
+}
